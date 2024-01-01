@@ -1,4 +1,6 @@
-# Introduction to Git and GitHub
+## Training 
+
+## Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
@@ -13,4 +15,4 @@ Output
    simple interest = p*t*r
 ```
 
-2022 XYZ, Inc.
+2023 XYZ, Inc.
