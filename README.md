@@ -1,4 +1,4 @@
-## Training IBM Coursera Full Stack
+## IBM Coursera Full Stack Git&GitHub
 
 Introduction to Git and GitHub : Simple Interest Calculator
 
